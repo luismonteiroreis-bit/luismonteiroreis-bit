@@ -2,13 +2,10 @@
 
 
 
- -⚽ Fã de futebol 
- 
- -🐳 Obcecado por santos futebol clube
-- 👨‍🎓 Estudante
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fã de futebol⚽
+- Obcecado por santos futebol clube🐳
+- Estudante 👨‍🎓
+- Gosto de dormir 🌙
+- Gosto de jogar futebol🥇⚽
+
+![( https://media1.tenor.com/m/V6CHZ10IdkoAAAAd/lamine-yamal-lamine.gif)
