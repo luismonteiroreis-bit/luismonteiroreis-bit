@@ -2,7 +2,7 @@
 
 
  -⚽ Fã de futebol 
- -🐳 Obcecado por santos futebol clube 
+ -🐳 Obcecado por santos futebol clube
 - 👨‍🎓 Estudante
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
