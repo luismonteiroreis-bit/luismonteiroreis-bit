@@ -1,12 +1,9 @@
 ## Opa, bão? 🇧🇷🐳👋
 
 
-**luismonteiroreis-bit/luismonteiroreis-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
- ⚽ Fã de futebol .
-🐳 Obcecado por santos futebol clube...
-- 👯 I’m looking to collaborate on ..
+ ⚽ Fã de futebol
+🐳 Obcecado por santos futebol clube
+- 👨‍🎓 Estudante
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
