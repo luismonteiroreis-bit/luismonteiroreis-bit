@@ -1,8 +1,8 @@
 ## Opa, bão? 🇧🇷🐳👋
 
 
- ⚽ Fã de futebol
-🐳 Obcecado por santos futebol clube
+ -⚽ Fã de futebol
+-🐳 Obcecado por santos futebol clube
 - 👨‍🎓 Estudante
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
